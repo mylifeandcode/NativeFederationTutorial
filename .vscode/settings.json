@@ -12,14 +12,14 @@
         "statusBarItem.hoverBackground": "#fa1b49",
         "titleBar.activeBackground": "#dd0531",
         "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#dd053199",
+        "titleBar.inactiveBackground": "#31719c99",
         "titleBar.inactiveForeground": "#e7e7e799",
-        "sash.hoverBorder": "#fa1b49",
-        "statusBarItem.remoteBackground": "#dd0531",
+        "sash.hoverBorder": "#3e8dc2",
+        "statusBarItem.remoteBackground": "#31719c",
         "statusBarItem.remoteForeground": "#e7e7e7",
         "commandCenter.border": "#e7e7e799"
     },
-    "peacock.color": "#dd0531",
+    "peacock.color": "#31719c",
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,

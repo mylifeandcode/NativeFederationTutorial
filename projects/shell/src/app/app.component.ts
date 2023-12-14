@@ -1,9 +1,12 @@
-import { AuthLibService } from 'auth-lib';
-import { HttpClient } from '@angular/common/http';
 import { Component } from '@angular/core';
+import { RouterModule } from '@angular/router';
 
 @Component({
+  standalone: true,
   selector: 'app-root',
+  imports: [
+    RouterModule
+  ],
   templateUrl: './app.component.html'
 })
 export class AppComponent {
